@@ -1,7 +1,5 @@
 # Coinbase.... a company with a mission to create an open financial system for the world
 ![alt text](./images/coinbase1.png)
-
-
 ## Crypto currency exchange which is taking the finance trading to a gripping finish.
 
 The World’s Leading Blockchain Ecosystem and Digital Asset Exchange. Coinbase is a blockchain and cryptocurrency infrastructure provider. Its portfolio of crypto products and offerings includes trading and finance, education, data and research, social good, investment and incubation, decentralization and infrastructure solutions, etc.
