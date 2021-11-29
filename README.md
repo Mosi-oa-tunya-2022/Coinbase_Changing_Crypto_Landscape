@@ -3,22 +3,25 @@
 
 __________
 ### 
+### 
 # RESEARCH BY: Nelson Lubinda
 
 ## Overview and Origin
 
-Coinbase is officially known as Coinbase Global, Inc. was incorporated in Many 2012 by two co-founders Brian Armstrong and Fred Ehrsam with the radical idea that anyone, anywhere, should be able to easily and securely send and receive Bitcoin.
+Coinbase, officially known as Coinbase Global, Inc. was incorporated in May 2012 by Brian Armstrong and Fred Ehrsam with the radical idea that anyone, anywhere, should be able to easily and securely send and receive bitcoin.
 
-From the onset, the Bitcoin blockchain concept was technical and, buying bitcoin was a very confusing and intricate experience at the time. The co-founders came up with this idea of democratizing access to the cryptoeconomy by enabling anyone with an internet connection to easily and securely invest in and use crypto assets. Coinbase was initially funded through a Y Combinator, an American technology startup accelerator program with a series of $50,000 investments, entrepreneur investment of $100,000 in bitcoin and later $2.5 million from venture capitalists.
+From the onset, the Bitcoin blockchain concept was very technical and buying bitcoin was a confusing and an intricate experience. The co-founders came up with this idea of democratizing access to the cryptoeconomy by enabling anyone with an Internet connection to easily and securely invest in and use crypto assets. Coinbase was initially funded through a Y Combinator, an American technology startup accelerator program, with a series of $50,000 investments, entrepreneur investment of $100,000 in bitcoin and later $2.5 million from venture capitalists.
+
 
 ## Business Activities:
-Have you ever forgotten your password for your bank account, computer, mobile device or email? What if you lost your password, pin, or login credentials forever and no one is able to recover or reset the information for you? All your savings, valuable data, massages and notes gone! Bitcoin blockchain inventor or inventors with an alias of Satoshi Nakamoto described in their white paper how bitcoin, the then new decentralized technology would not be controlled by a single person, company, government or a network on which the digital currency is built. It meant that people who bought and sold bitcoin could not depend on a bank or anyone else to manage their collection of digital money. Owning bitcoin was uncertain as it meant using something called a “private key” along with a long senseless alpha numerical string that controlled access to one’s online digital wallet. One has to print out this key and keep it in a safe and saving this string on one’s computer is risky as anyone with the access to this key would have access to all your digital assets. If this key was lost, there was no recovery therefore, the key and money was gone forever. 
+Have you ever forgotten a password for your bank account, computer, mobile device or email? What if you lost your password, pin, or login credentials forever and no one is able to recover or reset the information for you? All your savings, valuable data, messages and notes gone forever! Bitcoin blockchain inventor or inventors with an alias of Satoshi Nakamoto described in their white paper how Bitcoin, the new decentralized technology, would not be controlled by a single person, company, government or a network on which the digital currency is built. It meant that people who bought and sold bitcoin could not depend on a bank or anyone else to manage their collection of digital money. Owning and managing bitcoin was cumbersome as it meant using something called a “private key” as well as a long senseless alpha numerical string that controlled access to one’s online digital wallet. If this key was lost, there was no recovery therefore, the key and money was gone forever. 
 
-Simultaneously, today’s financial system relies upon a patchwork of intermediaries that spans banks, brokers, clearinghouses, custodians, exchanges, payment processors, and their networks to facilitate money movement, safekeeping, lending, credit, and other capital markets activity. The trust and reliance on this complex web of intermediaries imposes access limitations, efficiency huddles and added costs; what the authors of the Truth Machine call the "cryptoeconomy ecosystem friction".
+Simultaneously, today’s financial system relies upon a patchwork of intermediaries that spans banks, brokers, clearinghouses, custodians, exchanges, payment processors, and their networks to facilitate money movement, safekeeping, lending, credit, and other capital markets activity. The trust and reliance on this complex web of intermediaries imposes access limitations, efficiency huddles and added costs. It is the congruence of these two competing needs which made a business opportunity for Coinbase.
 
-Brian’s idea which seemed radical at the time, was to provide a key management service for customers anywhere, anytime, to easily and securely send and receive Bitcoin, the first crypto asset. He built a website and mobile applications as a trusted platform for accessing Bitcoin and the broader crypto economy by reducing the complexity of the industry through a simple and intuitive user experience. There was resistance from the blockchain developer community as they perceived Brain’s idea as a deviation from the core concepts of Blockchain. This was almost a decade ago and today, many companies are trying to emulate what Coinbase is leap years ahead of the competition! The most unfair competition with traditional banks who have specific operating hours (8am-5pm), Coinbase is open 24/7 everywhere.
+Brian’s idea which seemed radical at the time, was to provide a key management service for customers anywhere, anytime, to easily and securely send and receive Bitcoin, the first crypto asset. He built a website and mobile applications as a trusted platform for accessing Bitcoin and the broader crypto economy by reducing the complexity of the industry through a simple and intuitive user experience. There was resistance from the blockchain developer community as they perceived Brain’s idea as a deviation from the core concepts of blockchain. This was almost a decade ago and today, many companies are trying to emulate what Coinbase which is leap years ahead of the competition!  Traditional banks have specific operating hours (8am-5pm) whereas Coinbase is open 24/7 everywhere, an unfair competitive advantage.
 
-In 2014, the company grew to one million users, acquiring the blockchain explorer service Blockr and the web bookmarking company Kippt. They also secured insurance covering the value of bitcoin stored on their servers, and launched the vault system for secure bitcoin storage. Coinbase Technologies include the following:
+In 2014, the company grew to one million users, acquiring the blockchain explorer service Blockr and the web bookmarking company Kippt. They also secured insurance covering the value of bitcoin stored on their servers, and launched the vault system to secure bitcoin storage. In addition, Coinbase Technologies include the following:
+
 
 ```
 ____________________________________________________________
@@ -71,55 +74,49 @@ ____________________________________________________________
 
 
 ## Landscape:
-Coinbase’ customer is the average user where Coinbase offers a primary financial account for the cryptoeconomy. This is a safe, trusted, and easy-to-use platform to invest, store (digital wallet), spend, earn, and use crypto assets. Currently, the platform enables approximately 73 million retail users, 7,000 institutions, and 115,000 ecosystem partners in over 100 countries to participate in the cryptoeconomy.
+Coinbase’ customer are retail users, institutions and ecosystem partners providing a safe, trusted, and easy-to-use platform to invest, store (digital wallet), spend, earn, and use crypto assets. Currently, the platform enables approximately 73 million retail users, 7,000 institutions, and 115,000 ecosystem partners in over 100 countries to participate in the cryptoeconomy. For its retail users, Coinbase offers a free primary financial account on an easy-to-use platform to invest, store, spend, earn, and use crypto assets. It also provides institutions with hedge funds, money managers, and corporations a one-stop shop for accessing crypto markets through advanced trading and custody technology, built on top of a robust security infrastructure. Coinbase offers a state of the art marketplace with a deep pool of liquidity for transacting in crypto assets. It also prides itself with providing developers, merchants, and asset issuers a platform with technology and services that enables them to build applications that leverage crypto protocols, actively participate in crypto networks, and securely accept cryptocurrencies as payment to ecosystem partners.
 
-For its retail users, Coinbase offers a free primary financial account on an easy-to-use platform to invest, store, spend, earn, and use crypto assets. It also provides institutions with hedge funds, money managers, and corporations a one-stop shop for accessing crypto markets through advanced trading and custody technology, built on top of a robust security infrastructure. Coinbase offers a state of the art marketplace with a deep pool of liquidity for transacting in crypto assets. It also prides itself with providing developers, merchants, and asset issuers a platform with technology and services that enables them to build applications that leverage crypto protocols, actively participate in crypto networks, and securely accept cryptocurrencies as payment to ecosystem partners.
-
-Coinbase was the first crypto exchange and directly integrate with over 15 blockchain protocols, support over 90 crypto assets for trading or custody, and offer a suite of subscription products and services that have enhanced the customer value proposition and power of their platform. They are US based and registered, therefore, trusted by most customers. As a result, Coinbase is a market leading brand exclusively focused on the cryptoeconomy. They have and remain solely focused on building technology to power the cryptoeconomy since 2012. Their focus allows them to nimbly adapt to quickly shifting trends and support the growth of the industry. As the cryptoeconomy grows, so does their competitive advantage.
-
-Coinbase has a trusted platform owing to their heritage of security and culture of regulatory compliance. They are a financial technology provider that offers services to customers in over 100 countries, and is one of the longest running crypto platforms where customers have not lost funds due to a security breach of the platform. They are also licensed to engage in money transmission and virtual currency business in almost all U.S. states and they continue to pursue licensing in select jurisdictions internationally.
+Coinbase was the first crypto exchange and is directly integrated with over 15 blockchain protocols, supports over 90 crypto assets for trading or custody, and offers a suite of subscription products and services that have enhanced the customer value proposition and power of their platform. Coinbase has a trusted platform owing to their heritage of security and culture of regulatory compliance. They are a financial technology provider that offers services to customers in over 100 countries, and is one of the longest running crypto platforms where customers have not lost funds due to a security breach of the platform. They are also licensed to engage in money transmission and virtual currency business in almost all U.S. states and they continue to pursue licensing in select jurisdictions internationally.
 
 Coinbase has a robust technology platform that enables unique product experiences for the industry. Their custom technology platform is built to deal with the real-time, global and 24/7/365 nature of crypto asset markets, enabling them to rapidly research, develop, and launch new products and features. Coinbase has soared in popularity and turned itself into the initial access point for mainstream crypto investors by positioning itself as a safe harbor among crypto asset exchanges. 
 
 
 
+
 ## Results
 
-Coinbase is a crypto currency exchange which is taking the finance trading to a fascinating finish. It changed the financial landscape for good by liberating its customers from the restraints of giant banks and government-controlled money supplies. 
+Coinbase is a crypto currency exchange which is taking the finance trading to a fascinating finish. It changed the financial landscape for good by liberating its customers from the restraints of giant banks and government-controlled money supplies. Coinbase has thoroughly pursued compliance with existing regulations and law enforcement, putting it on the right side of the law — another huge asset in a sector that is still in desperate need of regulatory guidance. They even earned an accolade for being crypto currency “white knights”. Coinbase’ success has been mimicked by bad actors who defrauded their customers and shady black market businesses like “Silk Roads” to facilitate illegal businesses. 
 
-Coinbase has thoroughly pursued compliance with existing regulations and law enforcement, putting it on the right side of the law — another huge asset in a sector that is still in desperate need of regulatory guidance. They even earned an accolade for being crypto currency “white knights”. There have been a lot of bad actors and shady businesses like “Silk Roads” taking the success of Coinbase and using it to their advantage. 
+Cybersecurity, noticeably lacking at some of the exchanges has been Coinbase’ selling point.  For example, the Mt. Gox exchange in Japan went out of business in 2014 after hackers stole coins worth $480 million. Customers of QuadrigaCX, which was one of Canada’s largest exchanges, have been unable to retrieve $150 million in crypto since the founder supposedly died suddenly in December 2018, holding the only set of keys to unlock their money
 
-Unlike many of its competitors, Coinbase has never been hacked. The selling proposition here is security—security noticeably lacking at some of the exchanges with which Coinbase has competed.  For example, the Mt. Gox exchange in Japan went out of business in 2014 after hackers stole coins worth $480 million. Customers of QuadrigaCX, which was one of Canada’s largest exchanges, have been unable to retrieve $150 million in crypto since the founder supposedly died suddenly in December 2018, holding the only set of keys to unlock their money.
-
-Coinbase will become even more relevant because according to the authors of the Truth Machine, "privacy exists only until the next hack. Credit card fraud is a fact of life. Many of the legacy systems once designed to make our lives easier and our economy more efficient are no longer up to the task. Yet, there is a way past all this - a new kind of operating system with the potential to revolutionize vast swaths of our economy: The blockchain!"
-
-Coinbase performance matrices are; 
-- Easy to use for cryptocurrency beginners:
-The main Coinbase website and mobile app are very easy to use and allow to buy, sell, and exchange cryptocurrencies quickly.
-- Support for a large number of cryptocurrencies: 
+Coinbase’ performance matrices are; 
+-	Easy to use for cryptocurrency beginners:
+ The main Coinbase website and mobile app are very easy to use and allow to buy, sell, and exchange cryptocurrencies quickly.
+-	Support for a large number of cryptocurrencies: 
 Coinbase currently supports over 100 currencies for trading, and the number grows regularly.
-- Opportunities to earn cryptocurrency: 
+-	Opportunities to earn cryptocurrency: 
 Earn interest on eligible balances, or get a small amount of a new currency through Coinbase Earn.
-- Lower pricing available with Coinbase Pro: 
+-	Lower pricing available with Coinbase Pro: 
 Any user can switch to Coinbase Pro, an active trading platform with more features and low fees.
 
 
 Despite the volatility of the crypto currencies, Coinbase is still a market leader in the world. The cryptocurrency marketplace is evolving quickly with new competitors. Major competitors to Coinbase include Gemini, Binance, KuCoin, FTX, Kraken, and many others. Coinbase features a top platform for anyone to buy, sell, store, and exchange cryptocurrency. It’s particularly good for beginners, who want a simple buying and selling experience without worrying about the complexities of external wallets and decentralized exchanges.
 
 
+
 ## Recommendations
 
-One of the first recommendations for the company would be to improve their customer service. Currently, customers cannot speak to a “live” person if they needed technical help. 
-I would also recommend incentives such as: 
+One of the first recommendations for the company would be to improve their customer service. Currently, customers cannot speak to a “live” person if they needed technical help. I would also recommend incentives such as: 
 1.	Loyalty reward points in form of cryptocurrencies 
-2.	Pay interest on balances in the digital wallet.
-3.	 Fees and charges are higher compared to the industry and Coinbase could offer no international exchange fees
-4.	Instead of multiple wallets for each currency, Coinbase could offer a cold unified wallet that could store multiple crypto currencies.  
-5.	Just like fiat transactions, Coinbase can liberate transactions further and provide complete anonymity for sales of goods and services. If one bought buy food in a supermarket, no one cares where that cash money is coming from or who owned it. With crypto, it is possible to trace who has spent what and when. 
+2.	Pay interest on balances in the hot digital wallet.
+3.	 Reduce fees and charges which are higher compared to the industry and could offer no international exchange fees
+4.	Offer a cold unified wallet that could store multiple crypto currencies.  
+5.	Just like Fiat transactions, Coinbase could liberate transactions further and provide complete anonymity for sale of goods and services. For example, If one bought a product in a store, no one cares where that Fiat is coming from or who owned it. With crypto, it is possible to trace who has spent what and when. 
 6.	It could be an advantage for Coinbase to create a system where a customer who already has a digital wallet and a rapport with the exchange is not subject to waiting times for the transactions to take place. Instead, the exchange could lock-in rates at the time of transaction and operate like a modern Wall Street while ignoring the real time market volatility of crypto for real-time transactions. 
-7.	Finally, Coinbase could offer virtual debit cards which could be preloaded with Fiat and then used to purchase goods and services without the insecurity of the volatility of crypto or transaction time lag. This virtual card or vault offering would broaden the acceptability and instant usage of crypto as the conversion from crypto currency to fiat could be instant and shielded as the balances would be coming from the vault.
+7.	Finally, Coinbase could offer virtual debit cards which could be preloaded with Fiat and then used to purchase goods and services without the insecurity of the volatility of crypto or transaction time lag. This virtual card or vault offering would broaden the acceptability and instant usage of crypto as the conversion from crypto currency to Fiat could be instant and shielded as the balances would be coming from the vault.
 
 These suggested strategies would benefit Coinbase as some of their competitors are luring away core customers with such or similar version of offerings even though the competition does not have the command, security, rapport and versatility of Coinbase. 
+
 
 
 ## Citations:
