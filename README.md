@@ -1,4 +1,4 @@
-# Coinbase,  a company with a mission to create an open financial system for the world using blockchain technology
+# Coinbase,  a company with a mission to create an open financial system for the world using Blockchain technology.
 ![alt text](./images/coinbase1.png)
 
 __________
