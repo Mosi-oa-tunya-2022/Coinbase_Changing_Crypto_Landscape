@@ -81,6 +81,8 @@ Coinbase was the first crypto exchange and is directly integrated with over 15 b
 
 Coinbase has a robust technology platform that enables unique product experiences for the industry. Their custom technology platform is built to deal with the real-time, global and 24/7/365 nature of crypto asset markets, enabling them to rapidly research, develop, and launch new products and features. Coinbase has soared in popularity and turned itself into the initial access point for mainstream crypto investors by positioning itself as a safe harbor among crypto asset exchanges. 
 
+## As clearly stated by the authors of "The Truth Machine", Privacy exists only until the next hack. Credit card fraud is a fact of life. Many of the legacy systems once designed to make our lives easier and our economy more efficient are no longer up to the task. Yet, there is a way past all this - a new kind of operating system with the potential to revolutionize vast swaths of our economy: the blockchain!
+
 
 
 
@@ -101,7 +103,8 @@ Earn interest on eligible balances, or get a small amount of a new currency thro
 Any user can switch to Coinbase Pro, an active trading platform with more features and low fees.
 
 
-Despite the volatility of the crypto currencies, Coinbase is still a market leader in the world. The cryptocurrency marketplace is evolving quickly with new competitors. Major competitors to Coinbase include Gemini, Binance, KuCoin, FTX, Kraken, and many others. Coinbase features a top platform for anyone to buy, sell, store, and exchange cryptocurrency. It’s particularly good for beginners, who want a simple buying and selling experience without worrying about the complexities of external wallets and decentralized exchanges.
+Despite the volatility of the crypto currencies, Coinbase is still a market leader in the world. The cryptocurrency marketplace is evolving quickly with new competitors. Major competitors to Coinbase include Gemini, Binance, KuCoin, FTX, Kraken, and many others. Coinbase features a top platform for anyone to buy, sell, store, and exchange cryptocurrency. It’s particularly good for beginners, who want a simple buying and selling experience without worrying about the complexities of external wallets and decentralized exchanges. 
+
 
 
 
