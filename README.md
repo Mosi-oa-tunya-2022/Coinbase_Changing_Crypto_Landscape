@@ -13,7 +13,9 @@ From the onset, the Bitcoin blockchain concept was technical and, buying Bitcoin
 
 ## Business Activities:
 Have you ever forgotten your password for your bank account, computer, mobile device or email? What if you lost your password, pin, or login credentials forever and no one is able to recover or reset the information for you? All your savings, valuable data, massages and notes gone! Bitcoin blockchain inventor or inventors with an alias of Satoshi Nakamoto described in their white paper how bitcoin, the then new decentralized technology would not be controlled by a single person, company, government or a network on which the digital currency is built. It meant that people who bought and sold bitcoin could not depend on a bank or anyone else to manage their collection of digital money. Owning bitcoin was uncertain as it meant using something called a “private key” along with a long senseless alpha numerical string that controlled access to one’s online digital wallet. One has to print out this key and keep it in a safe and saving this string on one’s computer is risky as anyone with the access to this key would have access to all your digital assets. If this key was lost, there was no recovery therefore, the key and money was gone forever. 
+
 Simultaneously, today’s financial system relies upon a patchwork of intermediaries that spans banks, brokers, clearinghouses, custodians, exchanges, payment processors, and their networks to facilitate money movement, safekeeping, lending, credit, and other capital markets activity. The trust and reliance on this complex web of intermediaries imposes access limitations, efficiency huddles and added costs.
+
 Brian’s idea which seemed radical at the time, was to provide a key management service for customers anywhere, anytime, to easily and securely send and receive Bitcoin, the first crypto asset. He built a website and mobile applications as a trusted platform for accessing Bitcoin and the broader crypto economy by reducing the complexity of the industry through a simple and intuitive user experience. There was resistance from the blockchain developer community as they perceived Brain’s idea as a deviation from the core concepts of blockchain. This was almost a decade ago and today, many companies are trying to emulate what Coinbase is leap years ahead of the competition! The most unfair competition with traditional banks who have specific operating hours (8am-5pm), Coinbase is open 24/7 everywhere.
 
 In 2014, the company grew to one million users, acquiring the blockchain explorer service Blockr and the web bookmarking company Kippt. They also secured insurance covering the value of bitcoin stored on their servers, and launched the vault system for secure bitcoin storage. Coinbase Technologies include the following:
@@ -93,7 +95,7 @@ Coinbase will become even more relevant because according to the authors of the 
 
 Coinbase performance matrices are; 
 - Easy to use for cryptocurrency beginners:
- The main Coinbase website and mobile app are very easy to use and allow to buy, sell, and exchange cryptocurrencies quickly.
+The main Coinbase website and mobile app are very easy to use and allow to buy, sell, and exchange cryptocurrencies quickly.
 - Support for a large number of cryptocurrencies: 
 Coinbase currently supports over 100 currencies for trading, and the number grows regularly.
 - Opportunities to earn cryptocurrency: 
