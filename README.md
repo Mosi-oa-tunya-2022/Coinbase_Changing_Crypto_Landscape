@@ -3,7 +3,7 @@
 
 __________
 ### 
-# RESEARCH BY: Nelson Lubinda
+# RESEARCH BY: NELSON LUBINDA
 
 ## Overview and Origin
 
