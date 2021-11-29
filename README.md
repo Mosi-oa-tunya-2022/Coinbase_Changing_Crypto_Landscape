@@ -20,9 +20,9 @@ Simultaneously, today’s financial system relies upon a patchwork of intermedia
 
 Coinbase founders' idea which seemed radical at the time, was to provide a key management service for customers anywhere, anytime, to easily and securely send and receive Bitcoin, the first crypto asset. He built a website and mobile applications as a trusted platform for accessing Bitcoin and the broader crypto economy by reducing the complexity of the industry through a simple and intuitive user experience. There was resistance from the blockchain developer community as they perceived Brain’s idea as a deviation from the core concepts of blockchain. This was almost a decade ago and today, many companies are trying to emulate what Coinbase which is leap years ahead of the competition!  Traditional banks have specific operating hours (8am-5pm) whereas Coinbase is open 24/7 everywhere, an unfair competitive advantage.
 
-In 2014, the company grew to one million users, acquiring the blockchain explorer service Blockr and the web bookmarking company Kippt. They also secured insurance covering the value of bitcoin stored on their servers, and launched the vault system to secure bitcoin storage. In addition, Coinbase Technologies include the following:
+In 2014, the company grew to one million users, acquiring the blockchain explorer service Blockr and the web bookmarking company Kippt. They also secured insurance covering the value of bitcoin stored on their servers, and launched the vault system to secure bitcoin storage. 
 
-
+In addition, Coinbase Technologies include the following:
 ```
 ____________________________________________________________
 Coinbase – Core Platform
