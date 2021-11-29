@@ -18,7 +18,7 @@ Have you ever forgotten a password for your bank account, computer, mobile devic
 
 Simultaneously, today’s financial system relies upon a patchwork of intermediaries that spans banks, brokers, clearinghouses, custodians, exchanges, payment processors, and their networks to facilitate money movement, safekeeping, lending, credit, and other capital markets activity. The trust and reliance on this complex web of intermediaries imposes access limitations, efficiency huddles and added costs. A term described by the authors of the "Truth Machine" as the "Cryptoeconomy Ecosystem Friction". It is the congruence of these two competing needs which made a business opportunity for Coinbase.
 
-Brian’s idea which seemed radical at the time, was to provide a key management service for customers anywhere, anytime, to easily and securely send and receive Bitcoin, the first crypto asset. He built a website and mobile applications as a trusted platform for accessing Bitcoin and the broader crypto economy by reducing the complexity of the industry through a simple and intuitive user experience. There was resistance from the blockchain developer community as they perceived Brain’s idea as a deviation from the core concepts of blockchain. This was almost a decade ago and today, many companies are trying to emulate what Coinbase which is leap years ahead of the competition!  Traditional banks have specific operating hours (8am-5pm) whereas Coinbase is open 24/7 everywhere, an unfair competitive advantage.
+Coinbase founders' idea which seemed radical at the time, was to provide a key management service for customers anywhere, anytime, to easily and securely send and receive Bitcoin, the first crypto asset. He built a website and mobile applications as a trusted platform for accessing Bitcoin and the broader crypto economy by reducing the complexity of the industry through a simple and intuitive user experience. There was resistance from the blockchain developer community as they perceived Brain’s idea as a deviation from the core concepts of blockchain. This was almost a decade ago and today, many companies are trying to emulate what Coinbase which is leap years ahead of the competition!  Traditional banks have specific operating hours (8am-5pm) whereas Coinbase is open 24/7 everywhere, an unfair competitive advantage.
 
 In 2014, the company grew to one million users, acquiring the blockchain explorer service Blockr and the web bookmarking company Kippt. They also secured insurance covering the value of bitcoin stored on their servers, and launched the vault system to secure bitcoin storage. In addition, Coinbase Technologies include the following:
 
@@ -27,6 +27,7 @@ In 2014, the company grew to one million users, acquiring the blockchain explore
 ____________________________________________________________
 Coinbase – Core Platform
 Coinbase provides a simple and powerful REST API to integrate bitcoin payments into your business or application. They allow all major operations in bitcoin through one API.
+____________________________________________________________
 CodebaseHQ 
 It is the ultimate code hosting platform for professional development teams. Includes source tree browser, in-line comments, notes, and a powerful ticketing system. 
 ____________________________________________________________
@@ -52,7 +53,7 @@ ____________________________________________________________
 Cross-platform (supporting Windows, macOS, and Linux) and can be used to build device, cloud, and IoT applications.
 ____________________________________________________________
 GuardRails 
-Makes open-source security tools easily available in your Pull Requests. Continuously identifies security problems in your codebase and helps you fix them.
+Makes open-source security tools easily available in the Pull Requests. Continuously identifies security problems in your codebase and helps you fix them.
 ____________________________________________________________
 Bearer 
 Bearer helps security at teams tech companies build an inventory of their engineering services and data flows by scanning the codebase. So they can easily assess risks and identify gaps with their own security and privacy policies.
@@ -63,7 +64,7 @@ ____________________________________________________________
 Hound 
 Automated code review for GitHub pull requests. It comments on code quality and style issues, allowing you and your team to better review and maintain a clean codebase.
 ____________________________________________________________
- Psalm 
+Psalm 
 It is a type-checking static analysis tool for PHP that finds bugs humans can miss, and improves code quality. It is designed to be useful on both large legacy codebases and small, modern ones. It can help you prevent the vast majority of type-related runtime errors, and also enables you to take advantage of safe coding patterns popular in other languages.
 ____________________________________________________________
 MJML
@@ -74,7 +75,7 @@ ____________________________________________________________
 
 
 ## Landscape:
-Coinbase’ customer are retail users, institutions and ecosystem partners providing a safe, trusted, and easy-to-use platform to invest, store (digital wallet), spend, earn, and use crypto assets. Currently, the platform enables approximately 73 million retail users, 7,000 institutions, and 115,000 ecosystem partners in over 100 countries to participate in the cryptoeconomy. For its retail users, Coinbase offers a free primary financial account on an easy-to-use platform to invest, store, spend, earn, and use crypto assets. It also provides institutions with hedge funds, money managers, and corporations a one-stop shop for accessing crypto markets through advanced trading and custody technology, built on top of a robust security infrastructure. Coinbase offers a state of the art marketplace with a deep pool of liquidity for transacting in crypto assets. It also prides itself with providing developers, merchants, and asset issuers a platform with technology and services that enables them to build applications that leverage crypto protocols, actively participate in crypto networks, and securely accept cryptocurrencies as payment to ecosystem partners.
+Coinbase’ customers are retail users, institutions and ecosystem partners providing a safe, trusted, and easy-to-use platform to invest, store (digital wallet), spend, earn, and use crypto assets. Currently, the platform enables approximately 73 million retail users, 7,000 institutions, and 115,000 ecosystem partners in over 100 countries to participate in the cryptoeconomy. For its retail users, Coinbase offers a free primary financial account on an easy-to-use platform to invest, store, spend, earn, and use crypto assets. It also provides institutions with hedge funds, money managers, and corporations a one-stop shop for accessing crypto markets through advanced trading and custody technology, built on top of a robust security infrastructure. Coinbase offers a state of the art marketplace with a deep pool of liquidity for transacting in crypto assets. It also prides itself with providing developers, merchants, and asset issuers a platform with technology and services that enables them to build applications that leverage crypto protocols, actively participate in crypto networks, and securely accept cryptocurrencies as payment to ecosystem partners.
 
 Coinbase was the first crypto exchange and is directly integrated with over 15 blockchain protocols, supports over 90 crypto assets for trading or custody, and offers a suite of subscription products and services that have enhanced the customer value proposition and power of their platform. Coinbase has a trusted platform owing to their heritage of security and culture of regulatory compliance. They are a financial technology provider that offers services to customers in over 100 countries, and is one of the longest running crypto platforms where customers have not lost funds due to a security breach of the platform. They are also licensed to engage in money transmission and virtual currency business in almost all U.S. states and they continue to pursue licensing in select jurisdictions internationally.
 
@@ -91,7 +92,7 @@ Cybersecurity, noticeably lacking at some of the exchanges has been Coinbase’ 
 
 Coinbase’ performance matrices are; 
 -	Easy to use for cryptocurrency beginners:
- The main Coinbase website and mobile app are very easy to use and allow to buy, sell, and exchange cryptocurrencies quickly.
+ The main Coinbase website and mobile app are very easy to use and allowing to purchase, sell, and exchange cryptocurrencies quickly.
 -	Support for a large number of cryptocurrencies: 
 Coinbase currently supports over 100 currencies for trading, and the number grows regularly.
 -	Opportunities to earn cryptocurrency: 
@@ -105,8 +106,7 @@ Despite the volatility of the crypto currencies, Coinbase is still a market lead
 
 
 ## Recommendations
-
-One of the first recommendations for the company would be to improve their customer service. Currently, customers cannot speak to a “live” person if they needed technical help. I would also recommend incentives such as: 
+The first recommendation to the company would be to improve their customer service. Currently, customers cannot speak to a “live” person if they needed technical help. I would also recommend incentives such as: 
 1.	Loyalty reward points in form of cryptocurrencies 
 2.	Pay interest on balances in the hot digital wallet.
 3.	 Reduce fees and charges which are higher compared to the industry and could offer no international exchange fees
