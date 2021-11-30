@@ -18,11 +18,13 @@ Have you ever forgotten a password for your bank account, computer, mobile devic
 
 Simultaneously, today’s financial system relies upon a patchwork of intermediaries that spans banks, brokers, clearinghouses, custodians, exchanges, payment processors, and their networks to facilitate money movement, safekeeping, lending, credit, and other capital markets activity. The trust and reliance on this complex web of intermediaries imposes access limitations, efficiency huddles and added costs. A term described by the authors of the "Truth Machine" as the "Cryptoeconomy Ecosystem Friction". It is the congruence of these two competing needs which made a business opportunity for Coinbase.
 
-Coinbase founders' idea which seemed radical at the time, was to provide a key management service for customers anywhere, anytime, to easily and securely send and receive Bitcoin, the first crypto asset. He built a website and mobile applications as a trusted platform for accessing Bitcoin and the broader crypto economy by reducing the complexity of the industry through a simple and intuitive user experience. There was resistance from the blockchain developer community as they perceived Brain’s idea as a deviation from the core concepts of blockchain. This was almost a decade ago and today, many companies are trying to emulate what Coinbase which is leap years ahead of the competition!  Traditional banks have specific operating hours (8am-5pm) whereas Coinbase is open 24/7 everywhere, an unfair competitive advantage.
+Coinbase founders' idea which seemed radical at the time, was to provide a key management service for customers anywhere, anytime, to easily and securely send and receive Bitcoin, the first crypto asset. They built a website and mobile applications as a trusted platform for accessing Bitcoin and the broader crypto economy by reducing the complexity of the industry through a simple and intuitive user experience. There was resistance from the blockchain developer community as they perceived Coinbase' idea as a deviation from the core concepts of blockchain. This was almost a decade ago and today, many companies are trying to emulate what Coinbase did and is leap years ahead of the competition! 
 
-In 2014, the company grew to one million users, acquiring the blockchain explorer service Blockr and the web bookmarking company Kippt. They also secured insurance covering the value of bitcoin stored on their servers, and launched the vault system to secure bitcoin storage. 
+Coinbase customers are retail users, institutions and ecosystem partners providing a safe, trusted, and easy-to-use platform to invest, store (digital wallet), spend, earn, and use crypto assets. Currently, the platform enables approximately 73 million retail users, 7,000 institutions, and 115,000 ecosystem partners in over 100 countries to participate in the cryptoeconomy. For its retail users, Coinbase offers a free primary financial account on an easy-to-use platform to invest, store, spend, earn, and use crypto assets. It also provides institutions with hedge funds, money managers, and corporations a one-stop shop for accessing crypto markets through advanced trading and custody technology, built on top of a robust security infrastructure. 
 
-In addition, Coinbase Technologies include the following:
+Coinbase offers a state of the art marketplace with a deep pool of liquidity for transacting in crypto assets. It also prides itself with providing developers, merchants, and asset issuers a platform with technology and services that enables them to build applications that leverage crypto protocols, actively participate in crypto networks, and securely accept cryptocurrencies as payment to ecosystem partners 24/7/12 everywhere while traditional financial institutions have specific operating hours, an unfair competitive advantage.
+
+In 2014, the company grew to one million users, acquiring the blockchain explorer service Blockr and the web bookmarking company Kippt. They also secured insurance covering the value of bitcoin stored on their servers, and launched the vault system to secure bitcoin storage. In addition, Coinbase Technologies include the following:
 ```
 ____________________________________________________________
 Coinbase – Core Platform
@@ -72,12 +74,39 @@ It is a markup language designed to reduce the pain of coding a responsive email
 ____________________________________________________________
 ```
 
-
-
 ## Landscape:
-Coinbase is in the Blockchain and Cryptocurrencies FinTech Domain and its customers are retail users, institutions and ecosystem partners providing a safe, trusted, and easy-to-use platform to invest, store (digital wallet), spend, earn, and use crypto assets. Currently, the platform enables approximately 73 million retail users, 7,000 institutions, and 115,000 ecosystem partners in over 100 countries to participate in the cryptoeconomy. For its retail users, Coinbase offers a free primary financial account on an easy-to-use platform to invest, store, spend, earn, and use crypto assets. It also provides institutions with hedge funds, money managers, and corporations a one-stop shop for accessing crypto markets through advanced trading and custody technology, built on top of a robust security infrastructure. Coinbase offers a state of the art marketplace with a deep pool of liquidity for transacting in crypto assets. It also prides itself with providing developers, merchants, and asset issuers a platform with technology and services that enables them to build applications that leverage crypto protocols, actively participate in crypto networks, and securely accept cryptocurrencies as payment to ecosystem partners.
 
-Coinbase was the first crypto exchange and is directly integrated with over 15 blockchain protocols, supports over 90 crypto assets for trading or custody, and offers a suite of subscription products and services that have enhanced the customer value proposition and power of their platform. Coinbase has a trusted platform owing to their heritage of security and culture of regulatory compliance. They are a financial technology provider that offers services to customers in over 100 countries, and is one of the longest running crypto platforms where customers have not lost funds due to a security breach of the platform. They are also licensed to engage in money transmission and virtual currency business in almost all U.S. states and they continue to pursue licensing in select jurisdictions internationally.
+Coinbase is in the Blockchain and Cryptocurrencies Financial Industry Domains. It was the first crypto exchange directly integrating over 15 blockchain protocols, supports over 90 crypto assets for trading or custody, and offers a suite of subscription products and services that have enhanced the customer value proposition and power of their platform. Coinbase has a trusted platform owing to their heritage of security and culture of regulatory compliance. They are a financial technology provider that offers services to customers in over 100 countries, and is one of the longest running crypto platforms where customers have not lost funds due to a security breach of the platform. They are also licensed to engage in money transmission and virtual currency business in almost all U.S. states and they continue to pursue licensing in select jurisdictions internationally.
+
+Some of the major trends and innovations of this domain over the last 5-10 years have been:
+
+-	Secure sharing of medical data
+-	Music royalties tracking
+-	Cross-border payments
+-	Real-time Internet of Things (IoT) operating systems (OS) 
+- Personal identity security
+-	Anti-money laundering tracking systems
+-	Supply chain and logistics monitoring
+-	Voting mechanisms
+-	Advertising insights
+-	Original content creation
+-	Cashless digital currency supermarkets
+-	Cryptocurrency exchange
+-	Real estate processing platforms 
+
+Early adopters of Blockchain include corporations like CISCO, IBM, Stellar, Morgan Stanley, Fox News, and UNICEF, as well as the Aerospace industry. Meanwhile, the future looks bright as blockchains are now being developed to facilitate the control and distribution of vaccines. In 2022, it is predicted that Blockchain technology will control and track the efficient delivery of vaccines directly from the manufacturers to the patients. 
+
+### Governments Role
+
+Wider doption of Bitcoin and crypto currencies by national governments like the United States, Canada, Australia, The European Union, El Salvador, Ukraine, Nigeria, Switzerland etc. has allowed the governments all over the world to recognize the advantages of Blockchain-derived currencies. During the rise of Bitcoin, governments of different nations expressed great skepticism with regard to the specific application of cryptocurrencies. However, they are developing their own private blockchains crypto.
+It is forecasted that by 2022 the Blockchain technology market shall accumulate as high as $20 billion in revenue. While certain countries, such as China, have imposed restrictions on bitcoins and other forms of Blockchain transactions, there is optimism that specific regions of the world will eventually embrace Blockchain-based currency in 2022 completely
+
+Users are empowered with the chance to express the right to ownership of a digital asset through the implementation of non-fungible tokens (NFTs) and digital archives into the Blockchain network NFTs marketplace. Additional to the protection of the creative heritage, NFTs also learn with respect to the ownership of the real estate, land, and vehicle that will assist in keeping track of the data concerning the former owners.
+
+One of the most exciting parts of Blockchain’s future predictions is how the technology will find application in social and political activities. Blockchain trends suggest that cryptocurrency has already developed as a potential solution that can guarantee the transformation of digital rights management. It can assist in reducing the number of identity theft cases, voter fraud and cheating as well as with supply chain management. Introduction of blockchain technology into the retail sector is bound to evolve with more advancements. The retail industry needs the Blockchain, particularly for supply chain management and inventory capabilities. Large organizations, including IBM and Walmart, have already signed partnerships for the creation of Blockchain-based solutions. Food products and logistics can easily be tracked with technology.The use of blockchain wallet technology will yield insurmountable economic growth by 2022 and will be mainstream as cold unified wallets are now fully developed and realistic.
+The “GAFAM”; giant companies like Google, Apple, Facebook, Amazon and Microsoft among many others have already started using and offering the blockchain as a service therefore transformation in the overall condition of the economy.
+
+Despite the volatility of the crypto currencies, Coinbase is still a market leader in the world. The cryptocurrency marketplace is evolving quickly with new competitors who capitalize on Coinbase' trailblazing status. Major companies in the domain include Gemini, Binance, KuCoin, FTX, Kraken, and many others. Coinbase features a top platform for anyone to buy, sell, store, and exchange cryptocurrency. It’s particularly good for beginners, who want a simple buying and selling experience without worrying about the complexities of external wallets and decentralized exchanges.
 
 Coinbase has a robust technology platform that enables unique product experiences for the industry. Their custom technology platform is built to deal with the real-time, global and 24/7/365 nature of crypto asset markets, enabling them to rapidly research, develop, and launch new products and features. Coinbase has soared in popularity and turned itself into the initial access point for mainstream crypto investors by positioning itself as a safe harbor among crypto asset exchanges. 
 As clearly stated by the authors of "The Truth Machine", *"Privacy exists only until the next hack. Credit card fraud is a fact of life. Many of the legacy systems once designed to make our lives easier and our economy more efficient are no longer up to the task. Yet, there is a way past all this - a new kind of operating system with the potential to revolutionize vast swaths of our economy: the blockchain!"* I am sure Coinbase is instrumental in answering the call to help achieve the promise of the *INTERNET 3.0*
@@ -89,7 +118,11 @@ As clearly stated by the authors of "The Truth Machine", *"Privacy exists only u
 
 Coinbase is a crypto currency exchange which is taking the finance trading to a fascinating finish. It changed the financial landscape for good by liberating its customers from the restraints of giant banks and government-controlled money supplies. Coinbase has thoroughly pursued compliance with existing regulations and law enforcement, putting it on the right side of the law — another huge asset in a sector that is still in desperate need of regulatory guidance. They even earned an accolade for being crypto currency “white knights”. Coinbase’ success has been mimicked by bad actors who defrauded their customers and shady black market businesses like “Silk Roads” to facilitate illegal businesses. 
 
+According to Forbes, the global Blockchain technology market value was estimated to be $3.67 billion as of 2020. However, it is predicted to grow at a Compound Annual Growth Rate (CAGR) of 82.4% by 2028. With these forecasts, the development of the blockchain applications has increased significantly. The development of Blockchain is also assisting certain businesses in simplifying the payments for multiple shipping companies and retailers too. Most farm produce and all the shipping activities are being tracked seamlessly, thanks to Blockchain.
+
 Cybersecurity, noticeably lacking at some of the exchanges has been Coinbase’ selling point.  For example, the Mt. Gox exchange in Japan went out of business in 2014 after hackers stole coins worth $480 million. Customers of QuadrigaCX, which was one of Canada’s largest exchanges, have been unable to retrieve $150 million in crypto since the founder supposedly died suddenly in December 2018, holding the only set of keys to unlock their money.
+
+![Bitcoin 10 years trends ](./images/crypto-trend.png)
 
 Coinbase’ performance matrices are; 
 -	Easy to use for cryptocurrency beginners:
@@ -101,8 +134,7 @@ Earn interest on eligible balances, or get a small amount of a new currency thro
 -	Lower pricing available with Coinbase Pro: 
 Any user can switch to Coinbase Pro, an active trading platform with more features and low fees.
 
-
-Despite the volatility of the crypto currencies, Coinbase is still a market leader in the world. The cryptocurrency marketplace is evolving quickly with new competitors. Major competitors to Coinbase include Gemini, Binance, KuCoin, FTX, Kraken, and many others. Coinbase features a top platform for anyone to buy, sell, store, and exchange cryptocurrency. It’s particularly good for beginners, who want a simple buying and selling experience without worrying about the complexities of external wallets and decentralized exchanges. 
+ 
 
 
 
