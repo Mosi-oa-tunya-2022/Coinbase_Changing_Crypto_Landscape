@@ -118,11 +118,11 @@ As clearly stated by the authors of "The Truth Machine", *"Privacy exists only u
 
 Coinbase is a crypto currency exchange which is taking the finance trading to a fascinating finish. It changed the financial landscape for good by liberating its customers from the restraints of giant banks and government-controlled money supplies. Coinbase has thoroughly pursued compliance with existing regulations and law enforcement, putting it on the right side of the law — another huge asset in a sector that is still in desperate need of regulatory guidance. They even earned an accolade for being crypto currency “white knights”. Coinbase’ success has been mimicked by bad actors who defrauded their customers and shady black market businesses like “Silk Roads” to facilitate illegal businesses. 
 
-According to Forbes, the global Blockchain technology market value was estimated to be $3.67 billion as of 2020. However, it is predicted to grow at a Compound Annual Growth Rate (CAGR) of 82.4% by 2028. With these forecasts, the development of the blockchain applications has increased significantly. The development of Blockchain is also assisting certain businesses in simplifying the payments for multiple shipping companies and retailers too. Most farm produce and all the shipping activities are being tracked seamlessly, thanks to Blockchain.
+![Bitcoin 10 years trends ](./images/crypto-trend.png)
+
+The price of Bitcoin has risen by 2.03% in the past 7 days. As of time of submitting this assignment,the current price was $57,318.65 per BTC. Bitcoin is 16.66% below the all time high of $68,778.48. According to Forbes, the global Blockchain technology market value was estimated to be $3.67 billion as of 2020. However, it is predicted to grow at a Compound Annual Growth Rate (CAGR) of 82.4% by 2028. With these forecasts, the development of the blockchain applications has increased significantly. The development of Blockchain is also assisting certain businesses in simplifying the payments for multiple shipping companies and retailers too. Most farm produce and all the shipping activities are being tracked seamlessly, thanks to Blockchain. A bigger thank you to Coinbase for making bitcoin and altcoins acceptable and easily accessible.
 
 Cybersecurity, noticeably lacking at some of the exchanges has been Coinbase’ selling point.  For example, the Mt. Gox exchange in Japan went out of business in 2014 after hackers stole coins worth $480 million. Customers of QuadrigaCX, which was one of Canada’s largest exchanges, have been unable to retrieve $150 million in crypto since the founder supposedly died suddenly in December 2018, holding the only set of keys to unlock their money.
-
-![Bitcoin 10 years trends ](./images/crypto-trend.png)
 
 Coinbase’ performance matrices are; 
 -	Easy to use for cryptocurrency beginners:
